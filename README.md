@@ -1,6 +1,6 @@
 # IMDB
 
-[![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/171_Imdb_logo_logos-512.png)]
+![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/171_Imdb_logo_logos-512.png)
 
 
 Essa é uma análise dos dados do IMDB, onde foi realizada uma análise exploratória dos dados e a criação de um modelo de machine learn com o objetivo de entender o que faz um filme ter um bom faturamento. 
